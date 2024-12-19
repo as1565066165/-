@@ -16,7 +16,7 @@
     "express-session": "^1.15.6",
     "joi": "^14.0.6",
     "lodash": "^4.17.11",
-    "mongoose": "^5.3.9",
+    "mongoose": "^5.7.5",
     "mongoose-query-random": "^1.0.1",
     "mongoose-sex-page": "^1.2.4",
     "serve-favicon": "^2.5.0",
